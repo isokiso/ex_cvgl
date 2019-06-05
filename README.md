@@ -22,3 +22,5 @@ $./face_tracker
 左を向く→PreviousWindow （Cmd + LeftArrowに対応）  
 目を閉じる→終了  
 
+## reference  
+実装にはFaceTrackerを用いた．
